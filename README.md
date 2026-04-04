@@ -26,3 +26,6 @@ Demonstrates frontend development skills
 Built responsive UI using HTML & CSS
 Implemented form validation logic using JavaScript
 Improved understanding of user input handling
+
+👩‍💻 Author  
+Dakshayani Konda
